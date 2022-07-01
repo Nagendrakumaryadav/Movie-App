@@ -2,5 +2,5 @@
 Created Movie App landing page.                                                                                                                                           
 Features-Responsiveness(Can be used in Mobile and Desktop).                                                                                                               
 Can search any movies and uses API.                                                                                                                                       
-Tech Stack : Html,Css,JavaScript.
+Tech Stack : Html,Css,JavaScript.                                                                                                                                         
 Hosted Link : https://movie-app-websites.netlify.app
